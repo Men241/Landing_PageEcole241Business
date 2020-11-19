@@ -1,0 +1,104 @@
+.headerText {
+  position: relative;
+  top: 0px;
+  /*left: 39px;*/
+  color: white;
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 50px;
+}
+
+.headerParagraph {
+  color: white;
+}
+
+#headerContenu {
+  position: relative;
+  top: -730px;
+  left: 80px;
+}
+
+.buttonAction {
+  border: none;
+  margin-top: 20px;
+}
+
+#menu {
+  position: relative;
+  top: -840px;
+  left: 40px;
+  color: white;
+}
+
+.headerText2 {
+  position: relative;
+  top: 3px;
+  color: white;
+  font-size: 26px;
+}
+
+#date {
+  background-color: #ff3333;
+  width: 360px;
+  border-radius: 5px;
+}
+
+#blocText {
+  margin-top: 30px;
+}
+
+#contenu {
+  position: relative;
+  top: -606px;
+}
+
+#formation {
+  padding-top: 50px;
+}
+
+#row1 {
+  margin-top: 50px;
+  padding-bottom: 50px;
+}
+
+#learn {
+  position: relative;
+  top: -607px;
+}
+
+.check {
+  padding-left: 47px;
+  padding-top: 10px;
+}
+
+.check1 {
+  padding-left: 17px;
+  padding-top: 10px;
+}
+
+#heading_section3 {
+  padding-top: 50px;
+  color: white;
+}
+
+.card_border {
+  border-radius: 10px;
+}
+
+.nav-item {
+  margin-right: 30px;
+}
+
+.nav.navbar-nav.d-xl-flex.menu_bar {
+  margin-right: 47px;
+}
+
+.map-clean {
+  margin-top: -607px;
+}
+
+.logo {
+  margin-left: 16px;
+  height: 100px;
+}
+
